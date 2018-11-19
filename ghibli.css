@@ -1,0 +1,30 @@
+body {
+  background-image: linear-gradient(to right, #86a8e7, #91eae4);
+  font-family: cursive;
+}
+.totoro {
+  width: 150px;
+  margin-left: 630px;
+}
+
+.movies {
+  width: 500px;
+  margin-left: 450px;
+  align-self: center;
+  font-family: cursive;
+  font-size: 20px;
+}
+
+.data {
+  padding: 30px;
+  border-style: solid;
+  border-width: medium;
+  border-color: white;
+}
+.data > h2 {
+  color: white;
+  text-shadow: violet;
+}
+p {
+  font-size: 15px;
+}
