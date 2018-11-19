@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   //movie elements
   let title = document.querySelector("#title");
-  let director = document.querySelector("#description");
+  let director = document.querySelector("#director");
   let description = document.querySelector("#description");
   let release = document.querySelector("#release");
   let rt = document.querySelector("#rt");
